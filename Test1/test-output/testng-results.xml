@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="122033" started-at="2020-08-05T11:42:28 EDT" finished-at="2020-08-05T11:44:30 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="122033" started-at="2020-08-05T11:42:28 EDT" finished-at="2020-08-05T11:44:30 EDT">
+      <class name="Test1.QuotesTest_CA_US">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test1.QuotesTest_CA_US@b3d7190]" name="setUp" is-config="true" duration-ms="25522" started-at="2020-08-05T11:42:28 EDT" finished-at="2020-08-05T11:42:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:Test1.QuotesTest_CA_US@b3d7190]" name="verifyHomePageTitle" duration-ms="204" started-at="2020-08-05T11:42:53 EDT" finished-at="2020-08-05T11:42:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyLogIn()[pri:2, instance:Test1.QuotesTest_CA_US@b3d7190]" name="verifyLogIn" duration-ms="35106" started-at="2020-08-05T11:42:53 EDT" finished-at="2020-08-05T11:43:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogIn -->
+        <test-method status="PASS" signature="verify_main_menu()[pri:3, instance:Test1.QuotesTest_CA_US@b3d7190]" name="verify_main_menu" duration-ms="899" started-at="2020-08-05T11:43:29 EDT" finished-at="2020-08-05T11:43:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_main_menu -->
+        <test-method status="PASS" signature="verify_quotes()[pri:4, instance:Test1.QuotesTest_CA_US@b3d7190]" name="verify_quotes" duration-ms="59116" started-at="2020-08-05T11:43:29 EDT" finished-at="2020-08-05T11:44:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_quotes -->
+        <test-method status="PASS" signature="endSession()[pri:0, instance:Test1.QuotesTest_CA_US@b3d7190]" name="endSession" is-config="true" duration-ms="994" started-at="2020-08-05T11:44:29 EDT" finished-at="2020-08-05T11:44:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- Test1.QuotesTest_CA_US -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
